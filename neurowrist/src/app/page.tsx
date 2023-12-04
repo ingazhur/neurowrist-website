@@ -31,7 +31,7 @@ export default function Home() {
         </a>
 
         <div className="m-5 font-mono group rounded-lg border px-5 py-5 transition-colors border-gray-300 bg-gray-100 dark:border-neutral-700 dark:bg-neutral-800/30">
-          <form className="launchlist-form" action="https://getlaunchlist.com/s/JZIFPd" method="POST" target="_blank">
+          <form className="launchlist-form" action="https://getlaunchlist.com/s/zaoqnM" method="POST" target="_blank">
             <div className="w-full mt-4 text-left">
               <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Your Name</label>
               <input type="text" placeholder="Name" name="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-green-500 focus:border-green-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"/>
